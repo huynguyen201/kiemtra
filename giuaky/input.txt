@@ -1,0 +1,3 @@
+Teacher1:36:Hue: 3000.000
+Worker1:30:DaNang:4500.000
+Studen1:19:SaiGon:155.000
